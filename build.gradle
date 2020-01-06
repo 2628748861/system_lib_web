@@ -1,0 +1,20 @@
+group 'com.cample.system.lib.web'
+version '1.0-SNAPSHOT'
+//buildscript {
+//    ext {
+//        springBootVersion = '2.1.6.RELEASE'
+//    }
+//    repositories {
+//        // You need to add the following repository to download the
+//        // new plugin.
+//        google()
+//        mavenCentral()
+//        maven { url 'https://repo.spring.io/libs-snapshot' }
+//        mavenLocal()
+//    }
+//
+//    dependencies {
+////        classpath "org.springframework.boot:spring-boot-gradle-plugin:'2.1.6.RELEASE'"
+//        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.2.2.RELEASE")
+//    }
+//}
